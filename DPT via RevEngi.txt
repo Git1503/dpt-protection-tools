@@ -1,0 +1,15 @@
+
+
+
+    DPT Protection via RevEngi Bot 
+    Open View Apk file in Mtmanager 
+    Delete unnecessary files
+    upload in RevEng Bot
+    apply /protect and then select DPT
+    Download the protected apk 
+    
+    
+    DPT Protection 
+   After dex2 and 4 added in apk, then upload in RevEng Bot 
+   And Apply DPT Protection next apply Lspatch to the apk
+   and now sign with Mtmanager signature v1+v2+v3.
