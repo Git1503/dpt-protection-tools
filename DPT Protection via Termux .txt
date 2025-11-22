@@ -1,0 +1,8 @@
+
+
+
+    DPT Protection via Termux 
+    
+    After termux storage enable, pkg upgrade, installing openjdk-21     then do as follows
+    cd to already made DPT folder with DPT tools and target apk
+    java -jar dpt.jar x -f 123.apk
